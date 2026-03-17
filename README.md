@@ -12,6 +12,3 @@ the script is in an addon for blender  which creates an empty object and set it 
  - select the empty ***position*** ( world center, median point, at cursor, active object )
  - check ***parent inverse*** if you want to set the inverse
  - you can set the name of the empty in ***name*** field
-
-![enter image description here][1]
-[1]: http://i.stack.imgur.com/m6jPB.png
